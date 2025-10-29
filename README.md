@@ -22,7 +22,7 @@ CSS3 – for design and styling.
 
 JavaScript (Vanilla JS) – for game logic.
 
-⚙️ How to Play
+⚙️ How to Play.
 
 Click any box to place your mark (X or O).
 
