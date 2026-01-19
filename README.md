@@ -1,30 +1,60 @@
-🕹️ Tic Tac Toe Game
+# 🕹️ Tic Tac Toe Game
 
-🎯 Overview
+A classic **Tic Tac Toe (X & O)** game built using **HTML, CSS, and Vanilla JavaScript**, featuring turn-based gameplay, win/draw detection, and automatic game reset.
 
-This is a simple and fun Tic Tac Toe (X & O) game built using HTML, CSS, and JavaScript.
-It allows two players to play alternately, checks for winners, detects draws, and automatically resets the game after each round.
+🔗 **Live Demo: [Click here](https://paras941.github.io/vanilla-js-tictactoe-game/)
 
--project preview :[live demo here](https://paras941.github.io/vanilla-js-tictactoe-game/)
+---
 
-💡 Features
+## 🎯 Project Overview
 
-- Interactive 3×3 game grid.
-- Alternating turns between X and O.
-- Winning and draw detection.
-- Auto reset after each round.
-- Smooth hover effects and animations.
-- Modern UI with gradient background and shadows.
+| Aspect | Description |
+|--------|-------------|
+| Game Type | Two-player turn-based game |
+| Grid Size | 3 × 3 |
+| Logic | Win, draw, and auto-reset detection |
+| UI | Modern gradient design with animations |
+| Reset | Automatic after each round |
 
-🧰 Technologies Used
+---
 
-- HTML5 – for game layout.
-- CSS3 – for design and styling.
-- JavaScript (Vanilla JS) – for game logic.
+## 💡 Key Features
 
-⚙️ How to Play.
+| Feature | Description |
+|--------|-------------|
+| Interactive Grid | Click-based 3×3 board |
+| Turn System | Alternates between X and O |
+| Game State | Detects winner and draw |
+| Auto Reset | Restarts after 2 seconds |
+| UI Effects | Hover animations, shadows, gradients |
 
-- Click any box to place your mark (X or O).
-- Players take turns automatically.
-- The header updates to show whose turn it is.
-- Once a player wins or a draw occurs, the game resets automatically after 2 seconds.
+---
+
+## 🧰 Tech Stack
+
+| Technology | Role |
+|------------|------|
+| HTML5 | Game structure |
+| CSS3 | Styling and animations |
+| JavaScript | Game logic and state management |
+
+---
+
+## ⚙️ How to Play
+
+| Step | Action |
+|------|--------|
+| 1 | Click on any empty cell to place your mark |
+| 2 | Players take turns automatically |
+| 3 | Header displays current player |
+| 4 | Game announces winner or draw |
+| 5 | Board resets after 2 seconds |
+
+---
+
+## 📜 License
+
+| Type | Details |
+|------|---------|
+| License | MIT |
+| Usage | Free for learning and personal use |
